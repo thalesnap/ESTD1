@@ -57,8 +57,6 @@ public class VetorApp {
 
         System.out.println("\n---\n");
 
-
-
         // 4. Inserir após um valor informado
         System.out.println("Lista Questao 4");
         System.out.println("Inserindo 55 após o valor 33:");
@@ -80,7 +78,7 @@ public class VetorApp {
         System.out.println("\n---\n");
 
         
-        // 2. Remover após o atual //Nao Entendi
+        // 2. Remover após o atual //Nao Consegui
 
 
         // 3. Inserir antes do atual
@@ -90,7 +88,7 @@ public class VetorApp {
         lista.mostrarNos();
 
         
-        // 4. Remover antes do atual // Nao Entendi
+        // 4. Remover antes do atual // Nao Consegui
 
     }
 }
