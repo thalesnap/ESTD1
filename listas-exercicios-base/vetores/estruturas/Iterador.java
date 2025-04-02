@@ -69,7 +69,7 @@ public class Iterador {
         this.atual.proximo = novoNo;
     }
     
-    // 2. Remover após o atual // Nao Entendi
+    // 2. Remover após o atual
 
  
     //3. Inserir antes do atual
@@ -85,7 +85,7 @@ public class Iterador {
     
         this.atual.anterior = novoNo;
     }
-    // 4. Remover antes do atual // Nao Entendi
+    // 4. Remover antes do atual
 
     
 }
